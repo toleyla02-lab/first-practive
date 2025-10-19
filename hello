@@ -1,0 +1,4 @@
+ hello.py с print('Hello, world!') 
+   git add hello.py 
+   git commit -m 'Первый коммит' 
+   git push origin main
